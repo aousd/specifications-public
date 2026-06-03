@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 786.26 233.63">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        font-family: ArialMT, Arial;
+        font-size: 14px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #2e3192;
+        stroke-width: .75px;
+      }
+
+      .cls-6 {
+        fill: #22b573;
+      }
+
+      .cls-7 {
+        fill: #29abe2;
+      }
+    </style>
+  </defs>
+  <g id="background">
+    <rect id="color" class="cls-4" x=".5" y=".5" width="785.26" height="232.63"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <text/>
+    <path class="cls-7" d="M644.39,72.44H74.51V15.75h569.88v56.7Z"/>
+    <rect class="cls-6" x="154.93" y="104.57" width="204.14" height="53.76"/>
+    <rect class="cls-6" x="450.62" y="159.72" width="194.93" height="54.74"/>
+    <text class="cls-3" transform="translate(84.35 53.41)"><tspan x="0" y="0" xml:space="preserve"> active  [0,0]</tspan></text>
+    <text class="cls-3" transform="translate(84.81 32.15)"><tspan x="0" y="0" xml:space="preserve"> time = 0</tspan></text>
+    <line class="cls-1" x1="119.23" y1="128.2" x2="118.18" y2="176.23"/>
+    <line class="cls-1" x1="109.23" y1="116.62" x2="108.18" y2="164.65"/>
+    <text class="cls-3" transform="translate(175.95 123.68)"><tspan x="0" y="0">clip_1.usd</tspan></text>
+    <text class="cls-3" transform="translate(462.92 175.99)"><tspan x="0" y="0">clip_2.usd</tspan></text>
+    <path class="cls-5" d="M359.07,16.51l.75,54.6"/>
+    <text class="cls-3" transform="translate(380.28 53.41)"><tspan x="0" y="0" xml:space="preserve">active  [10,1]</tspan></text>
+    <text class="cls-3" transform="translate(376.21 30.13)"><tspan x="0" y="0" xml:space="preserve"> time = 10</tspan></text>
+    <text class="cls-3" transform="translate(176.48 152.21)"><tspan x="0" y="0">assetIndex = 0</tspan></text>
+    <text class="cls-3" transform="translate(463.45 204.61)"><tspan x="0" y="0" xml:space="preserve">assetIndex  =  1</tspan></text>
+    <g>
+      <path class="cls-2" d="M94.46,72.44c-2.46,64.99,34.29,61.2,54.44,60.56"/>
+      <path d="M154.93,133.01c-2.84,1.06-6.35,2.87-8.53,4.79l1.7-4.76-1.74-4.75c2.19,1.9,5.72,3.68,8.56,4.72Z"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M388.62,72.44c-2.53,126.6,35.34,118.9,55.97,117.68"/>
+      <path d="M450.62,190.14c-2.83,1.07-6.35,2.89-8.52,4.8l1.69-4.77-1.75-4.75c2.19,1.89,5.73,3.67,8.57,4.71Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1301 721">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-1, .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        fill-rule: evenodd;
+      }
+
+      .cls-6, .cls-12, .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-13 {
+        fill: #ffefb1;
+      }
+
+      .cls-13, .cls-14, .cls-12, .cls-8, .cls-15, .cls-16, .cls-10, .cls-17, .cls-18 {
+        stroke: #000;
+      }
+
+      .cls-13, .cls-14, .cls-12, .cls-8, .cls-18, .cls-11 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-13, .cls-14, .cls-12, .cls-18 {
+        stroke-linecap: square;
+      }
+
+      .cls-13, .cls-14, .cls-10, .cls-18 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-13, .cls-14, .cls-18 {
+        stroke-dasharray: 4.5 1.1;
+      }
+
+      .cls-14 {
+        fill: #ffd5a1;
+      }
+
+      .cls-19 {
+        stroke: #64bc46;
+      }
+
+      .cls-19, .cls-15, .cls-16, .cls-10, .cls-17, .cls-20, .cls-21 {
+        stroke-linejoin: round;
+      }
+
+      .cls-19, .cls-15, .cls-16, .cls-17, .cls-20, .cls-21 {
+        fill: none;
+      }
+
+      .cls-19, .cls-20, .cls-21 {
+        stroke-width: 3px;
+      }
+
+      .cls-7 {
+        fill: #cfe2f3;
+      }
+
+      .cls-12 {
+        stroke-dasharray: 3.9 1;
+      }
+
+      .cls-15 {
+        stroke-width: .8px;
+      }
+
+      .cls-16 {
+        stroke-width: .9px;
+      }
+
+      .cls-3 {
+        font-size: 15.54px;
+      }
+
+      .cls-4 {
+        font-size: 15px;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        fill: #ffb880;
+      }
+
+      .cls-23 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-24 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-20 {
+        stroke: #4bb749;
+      }
+
+      .cls-25 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-26 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-11 {
+        fill: #60bb46;
+        stroke: #4db850;
+      }
+
+      .cls-21 {
+        stroke: #5aba47;
+      }
+    </style>
+  </defs>
+  <g id="background">
+    <rect id="Color" class="cls-12" x=".5" y=".5" width="1300" height="720"/>
+  </g>
+  <g id="flow_chart" data-name="flow chart">
+    <path id="path39" class="cls-19" d="M760.9,247.9l1.2,403.8"/>
+    <rect id="rect11-6-1" class="cls-18" x="25.59" y="291.1" width="866.66" height="159.9"/>
+    <rect id="rect11-6" class="cls-14" x="41.72" y="300.5" width="863.1" height="159.9"/>
+    <rect id="rect11" class="cls-13" x="58.1" y="310.5" width="863.15" height="159.9"/>
+    <path id="path5" class="cls-7" d="M292.55,388.1l89.4-57.3,89.4,57.3-89.4,57.3-89.4-57.3Z"/>
+    <path id="path6" class="cls-17" d="M292.55,388.18l89.4-57.3,89.4,57.3-89.4,57.3-89.4-57.3Z"/>
+    <path id="path10" class="cls-6" d="M360.31,519.9h142.6v50.6h-142.6v-50.6h0Z"/>
+    <path id="path11" class="cls-17" d="M310.65,520.3h142.6v50.6h-142.6v-50.6h0Z"/>
+    <path id="path21" class="cls-10" d="M96.97,28.62h137.2v40.5H96.97V28.62Z"/>
+    <path id="path25" class="cls-17" d="M166.17,69.6v62.3"/>
+    <path id="path26" class="cls-8" d="M166.17,131.9l-1-1.1,1,3.1,1-3.1-1,1.1Z"/>
+    <path id="path29" class="cls-6" d="M586.21,634.9h0c0-4.1,2.8-7.4,6.3-7.4h130c1.7,0,3.3.8,4.4,2.2s1.9,3.3,1.9,5.2v29.5c0,4.1-2.8,7.4-6.3,7.4h-130c-3.5,0-6.3-3.3-6.3-7.4v-29.5h0Z"/>
+    <path id="path30" class="cls-17" d="M530.09,664.4h0c0,4.1,2.8,7.4,6.3,7.4h130c1.7,0,3.3-.8,4.4-2.2s1.9-3.3,1.9-5.2v-29.5c0-4.1-2.8-7.4-6.3-7.4h-130c-3.5,0-6.3,3.3-6.3,7.4v29.5h0Z"/>
+    <path id="path30-9" class="cls-16" d="M1146.51,520.58h0c0-4.1,2.6-7.4,5.7-7.4h117.5c1.5,0,2.9.8,4,2.2,1.1,1.4,1.7,3.3,1.7,5.2v29.5c0,4.1-2.6,7.4-5.7,7.4h-117.5c-3.1,0-5.7-3.3-5.7-7.4v-29.5h0Z"/>
+    <path id="path30-9-6" class="cls-17" d="M993.01,521.08h0c0-4.1,2.8-7.4,6.3-7.4h130c1.7,0,3.3.8,4.4,2.2,1.2,1.4,1.9,3.3,1.9,5.2v29.5c0,4.1-2.8,7.4-6.3,7.4h-130c-3.5,0-6.3-3.3-6.3-7.4v-29.5h0Z"/>
+    <path id="path32" class="cls-7" d="M977.31,388.18l89.4-55.2,89.4,55.2-89.4,55.2-89.4-55.2Z"/>
+    <path id="path33" class="cls-17" d="M978.11,388.18l89.4-55.2,89.4,55.2-89.4,55.2-89.4-55.2h0Z"/>
+    <path id="path38" class="cls-9" d="M654.81,445.1l2.7,182.4"/>
+    <path id="path39-2" data-name="path39" class="cls-17" d="M596.94,493.9l1.2,130.13"/>
+    <path id="path40" class="cls-8" d="M598.19,624.6l-1-1.1,1,3.1.9-3.1-1,1.1h.1Z"/>
+    <path id="path42" class="cls-17" d="M1067.51,445.48v62.3"/>
+    <path id="path43" class="cls-8" d="M1067.51,508.68l-.9-1.3.9,3.6.9-3.6-.9,1.3Z"/>
+    <path id="path50" class="cls-17" d="M381.95,570.5v79.5h144.49"/>
+    <path id="path51" class="cls-8" d="M527.03,650l-1,1.1,2.7-1.1-2.7-1.1,1,1.1Z"/>
+    <path id="path56" class="cls-17" d="M1156.21,388h55.3v123.6"/>
+    <path id="path57" class="cls-8" d="M1211.51,509.35l-1-1.1,1,3.1,1-3.1-1,1.1Z"/>
+    <path id="path60" class="cls-7" d="M76.17,388.08l89.4-57.3,89.4,57.3-89.4,57.3-89.4-57.3h0Z"/>
+    <path id="path61" class="cls-17" d="M76.77,388.18l89.4-57.3,89.4,57.3-89.4,57.3-89.4-57.3h0Z"/>
+    <path id="path65" class="cls-17" d="M255.86,388.08h32.09"/>
+    <path id="path66" class="cls-8" d="M288.66,388.08l-1,1.1,2.7-1.1-2.7-1.1,1,1.1Z"/>
+    <path id="path69" class="cls-7" d="M507.71,388.1l89.4-55.2,89.4,55.2-89.4,55.2-89.4-55.2h0Z"/>
+    <path id="path74" class="cls-7" d="M76.77,190.28l89.4-55.2,89.4,55.2-89.4,55.2-89.4-55.2h0Z"/>
+    <path id="path75" class="cls-17" d="M76.77,190.28l89.4-55.2,89.4,55.2-89.4,55.2-89.4-55.2h0Z"/>
+    <path id="path79-0-5" class="cls-17" d="M901.29,388.18h75.88"/>
+    <path id="path80-3-8" class="cls-8" d="M976.41,388.18l-1,1.1,2.7-1.1-2.7-1.1,1,1.1Z"/>
+    <path id="path82" class="cls-15" d="M798.01,390h29.8"/>
+    <path id="path85" class="cls-17" d="M381.95,444.88v50.12"/>
+    <path id="path85-4" class="cls-17" d="M596.94,443.38v52.12"/>
+    <path id="path85-9" class="cls-17" d="M381.95,494.6v19.9"/>
+    <path id="path86" class="cls-8" d="M380.55,513.63l1.4,4.5,1.4-4.5h-2.8Z"/>
+    <path id="path88" class="cls-17" d="M813.31,443.3v101.2h-356.02"/>
+    <path id="path88-8" class="cls-17" d="M165.57,445.4v99.1h140.6"/>
+    <path id="path89" class="cls-8" d="M456.6,544.5l1,1.1-2.7-1.1,2.7-1.1-1,1.1Z"/>
+    <path id="path89-5" class="cls-8" d="M306.83,544.5l-1,1.1,2.7-1.1-2.7-1.1,1,1.1Z"/>
+    <path id="path93" class="cls-17" d="M166.17,245.48v84.17"/>
+    <path id="path94" class="cls-8" d="M166.17,327.65l-1-1.1,1,3.1,1-3.1-1,1.1Z"/>
+    <g id="text96" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(112.23 55.26) scale(.9 1)"><tspan x="0" y="0">Query with</tspan><tspan class="cls-25" x="76.47" y="0"> </tspan><tspan class="cls-27" x="80.63" y="0">T</tspan><tspan x="89.8" y="0">ime</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text97" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(112.93 194) scale(.9 1)"><tspan x="0" y="0">Is Default</tspan><tspan class="cls-25" x="67.59" y="0"> </tspan><tspan class="cls-27" x="71.74" y="0">T</tspan><tspan x="80.92" y="0">ime?</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text3" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(323.91 390) scale(.9 1)"><tspan x="0" y="0">Has Spline Data?</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text6" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(1007.01 533.68) scale(.9 1)"><tspan x="0" y="0">Schema Declared</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(1048.31 549.68) scale(.9 1)"><tspan class="cls-23" x="0" y="0">V</tspan><tspan x="9.48" y="0">alue</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text7" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(1159.81 539.59) scale(.9 1)"><tspan x="0" y="0" xml:space="preserve"> Empty Sentinel </tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text7-8" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-4" transform="translate(805.7 284.55) scale(.9 1)"><tspan x="0" y="0">Loops Spec Layers</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text8" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(550.78 654.27) scale(.9 1)"><tspan x="0" y="0">Resolved </tspan><tspan class="cls-24" x="71.15" y="0">V</tspan><tspan x="80.63" y="0">alue</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text9" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(331.73 550.5) scale(.9 1)"><tspan x="0" y="0">Interpolated value</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text2" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-1" transform="translate(281.54 185.7) scale(.9 1)"><tspan x="0" y="0">Y</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text2-6" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-1" transform="translate(171.87 459) scale(.9 1)"><tspan x="0" y="0">Y</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text2-62" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-1" transform="translate(389.07 459) scale(.9 1)"><tspan x="0" y="0">Y</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text2-9" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-1" transform="translate(608.31 460.5) scale(.9 1)"><tspan x="0" y="0">Y</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text2-9-9" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-1" transform="translate(823.71 457.27) scale(.9 1)"><tspan x="0" y="0">Y</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text2-3" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-1" transform="translate(1074.61 470.38) scale(.9 1)"><tspan x="0" y="0">Y</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text10" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(251.85 383.27) scale(.9 1)"><tspan x="0" y="0">N</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text10-2" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(469.03 384.76) scale(.9 1)"><tspan x="0" y="0">N</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text10-7" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(901.29 384.76) scale(.9 1)"><tspan x="0" y="0">N</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text10-7-2" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(686.51 383.27) scale(.9 1)"><tspan x="0" y="0">N</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text10-23" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(1157.51 383.28) scale(.9 1)"><tspan x="0" y="0">N</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text10-5" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(174.6 255.42) scale(.9 1)"><tspan x="0" y="0">N</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="path70" class="cls-17" d="M507.41,388.18l89.7-55.2,89.7,55.2-89.7,55.2-89.7-55.2h0Z"/>
+    <path id="path69-6" class="cls-7" d="M723.21,388.1l89.4-55.2,89.4,55.2-89.4,55.2-89.4-55.2Z"/>
+    <path id="path70-5" class="cls-17" d="M723.21,388l89.7-55.2,89.7,55.2-89.7,55.2-89.7-55.2Z"/>
+    <g class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <text class="cls-4" transform="translate(103.88 392.96) scale(.9 1)"><tspan x="0" y="0">Has</tspan><tspan class="cls-26" x="26.67" y="0"> </tspan><tspan class="cls-28" x="30.57" y="0">T</tspan><tspan class="cls-22" x="39.18" y="0">ime Samples?</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="text31" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(558.31 383.27) scale(.9 1)"><tspan x="0" y="0">Has Default </tspan><tspan class="cls-27" x="0" y="19.2">T</tspan><tspan x="9.18" y="19.2">ime Data?</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text32" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(762.1 391.75) scale(.9 1)"><tspan x="0" y="0">Has </tspan><tspan class="cls-23" x="32.9" y="0">V</tspan><tspan x="42.38" y="0">alue Clips?</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="text33" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(1005.91 392.78) scale(.9 1)"><tspan x="0" y="0">Has Fallback </tspan><tspan class="cls-23" x="96.92" y="0">V</tspan><tspan x="106.41" y="0">alue?</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="path43-2" data-name="path43" class="cls-11" d="M1067.4,327.51l-2.08-2.21,2.08,6.12,2.08-6.12-2.08,2.21Z"/>
+    <rect id="rect11-6-1-2" data-name="rect11-6-1" class="cls-18" x="582.21" y="110.17" width="321.25" height="135.88"/>
+    <rect id="rect11-6-2" data-name="rect11-6" class="cls-14" x="592.21" y="118.16" width="321.58" height="135.88"/>
+    <rect id="rect11-2" data-name="rect11" class="cls-13" x="602.75" y="126.66" width="321.03" height="135.88"/>
+    <g id="text7-8-2" data-name="text7-8" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-3" transform="translate(804.71 101.93) scale(.87 1)"><tspan x="0" y="0">Loops Spec Layers</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="path70-2" data-name="path70" class="cls-17" d="M670.25,190.3l89.7-55.2,89.7,55.2-89.7,55.2-89.7-55.2h0Z"/>
+    <path id="path69-2" data-name="path69" class="cls-7" d="M670.55,190.3l89.4-55.2,89.4,55.2-89.4,55.2-89.4-55.2h0Z"/>
+    <g id="text31-2" data-name="text31" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(719.99 187.69) scale(.9 1)"><tspan x="0" y="0">Has Default </tspan><tspan class="cls-27" x="0" y="19.2">T</tspan><tspan x="9.18" y="19.2">ime Data?</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="path88-2" data-name="path88" class="cls-19" d="M1067.51,327.51v-137.21h-217.45"/>
+    <path id="path85-7" class="cls-19" d="M760.9,650.1h-81.82"/>
+    <path id="path91" class="cls-21" d="M254.32,190.35h412.33v.13"/>
+    <line class="cls-20" x1="760.86" y1="245.5" x2="760.94" y2="263.78"/>
+    <g id="text2-9-9-2" data-name="text2-9-9" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-1" transform="translate(770.94 255.19) scale(.9 1)"><tspan x="0" y="0">Y</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="path43-3" data-name="path43" class="cls-11" d="M678.62,650l2.21-2.08-6.12,2.08,6.12,2.08-2.21-2.08Z"/>
+    <path id="path70-3" data-name="path70" class="cls-17" d="M671.2,190.48l89.7-55.2,89.7,55.2-89.7,55.2-89.7-55.2h0Z"/>
+    <path id="path43-4" data-name="path43" class="cls-11" d="M666.64,190.3l-2.21,2.08,6.12-2.08-6.12-2.08,2.21,2.08Z"/>
+    <g id="text10-7-3" data-name="text10-7" class="cls-2">
+      <g class="cls-2">
+        <g class="cls-2">
+          <g class="cls-2">
+            <text class="cls-5" transform="translate(853.24 186.1) scale(.9 1)"><tspan x="0" y="0">N</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="path65-2" data-name="path65" class="cls-17" d="M470.51,388.28h32.09"/>
+    <path id="path80" class="cls-8" d="M503.6,388.28l-1,1.1,2.7-1.1-2.7-1.1,1,1.1Z"/>
+    <path id="path65-3" data-name="path65" class="cls-17" d="M686.51,388h32.09"/>
+    <path id="path80-2" data-name="path80" class="cls-8" d="M719.59,388l-1,1.1,2.7-1.1-2.7-1.1,1,1.1Z"/>
+  </g>
+</svg>

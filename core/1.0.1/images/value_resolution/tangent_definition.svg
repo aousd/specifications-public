@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360.6 216.54">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: red;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke: blue;
+      }
+
+      .cls-7 {
+        fill: lime;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        font-family: ArialMT, Arial;
+        font-size: 12px;
+      }
+
+      .cls-4, .cls-9 {
+        fill: red;
+      }
+
+      .cls-8 {
+        fill: blue;
+      }
+
+      .cls-10 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-6 {
+        stroke: lime;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x=".5" y=".5" width="359.6" height="215.54"/>
+  <line class="cls-3" x1="85.8" y1="158.74" x2="222.62" y2="158.74"/>
+  <line class="cls-6" x1="222.62" y1="158.74" x2="222.62" y2="91.06"/>
+  <line class="cls-1" x1="85.8" y1="158.74" x2="222.62" y2="91.06"/>
+  <path class="cls-2" d="M85.8,158.74c22.28-8.97,130.43-60.52,148.67-126.98"/>
+  <circle class="cls-5" cx="85.8" cy="158.74" r="3.55"/>
+  <circle class="cls-5" cx="234.16" cy="33.38" r="3.55"/>
+  <text class="cls-9" transform="translate(97.87 118.42)"><tspan class="cls-10" x="0" y="0">T</tspan><tspan x="6" y="0">angent</tspan></text>
+  <text class="cls-8" transform="translate(138.74 176.71)"><tspan x="0" y="0">Length</tspan></text>
+  <text class="cls-7" transform="translate(234.47 131.76)"><tspan x="0" y="0">Height</tspan></text>
+  <rect class="cls-4" x="220.18" y="89.07" width="4.41" height="4.41"/>
+</svg>

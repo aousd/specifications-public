@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360.6 216.54">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: ArialMT, Arial;
+        font-size: 12px;
+      }
+
+      .cls-2 {
+        stroke: blue;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-6, .cls-7, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-6, .cls-7, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-8 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 4 3;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x=".5" y=".5" width="359.6" height="215.54"/>
+  <g>
+    <polyline class="cls-4" points="34.33 23.96 34.33 178.39 320.26 178.39"/>
+    <g>
+      <polyline class="cls-6" points="34.33 26.98 34.33 178.39 317.25 178.39"/>
+      <path d="M34.33,23.96c-.53,1.42-1.43,3.18-2.38,4.27l2.38-.86,2.38.86c-.95-1.09-1.85-2.85-2.38-4.27Z"/>
+      <path d="M320.26,178.39c-1.42.53-3.18,1.43-4.27,2.38l.86-2.38-.86-2.38c1.09.95,2.85,1.85,4.27,2.38Z"/>
+    </g>
+  </g>
+  <text class="cls-1" transform="translate(286.72 197.65)"><tspan class="cls-8" x="0" y="0">T</tspan><tspan x="6.88" y="0">ime</tspan></text>
+  <path class="cls-2" d="M77.63,140.16s29.37-74.87,52.45-76.1c12.21-.65,31.88,37.11,31.88,37.11"/>
+  <line class="cls-5" x1="77.63" y1="78.88" x2="77.63" y2="178.39"/>
+  <line class="cls-5" x1="161.96" y1="78.88" x2="161.96" y2="178.39"/>
+  <path class="cls-5" d="M161.96,138.13s29.37-74.87,52.45-76.1c12.21-.65,31.88,37.11,31.88,37.11"/>
+  <text class="cls-1" transform="translate(70.46 193.25)"><tspan x="0" y="0">10</tspan></text>
+  <text class="cls-1" transform="translate(155.76 193.1)"><tspan x="0" y="0">50</tspan></text>
+  <circle class="cls-7" cx="77.63" cy="138.74" r="3.55"/>
+  <circle class="cls-7" cx="161.96" cy="100.07" r="3.55"/>
+  <text class="cls-1" transform="translate(16.59 142.29)"><tspan x="0" y="0">10</tspan></text>
+  <text class="cls-1" transform="translate(17.89 103.62)"><tspan x="0" y="0">15</tspan></text>
+  <line class="cls-5" x1="77.63" y1="138.74" x2="34.33" y2="138.74"/>
+  <line class="cls-5" x1="161.37" y1="100.07" x2="34.33" y2="100.07"/>
+</svg>
