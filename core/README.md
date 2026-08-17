@@ -8,15 +8,16 @@ implementations.
 
 ## Latest
 
-| Version | Released   | PDF                              | Markdown                       |
-|---------|------------|----------------------------------|--------------------------------|
-| 1.0.1   | 2025-12-12 | [core_spec.pdf](1.0.1/core_spec.pdf) | [core_spec.md](1.0.1/core_spec.md) |
+| Version | Released   | PDF                              | Markdown                       | Release ref   |
+|---------|------------|----------------------------------|--------------------------------|---------------|
+| 1.1.0   | 2026-08-13 | [core_spec.pdf](1.1.0/core_spec.pdf) | [core_spec.md](1.1.0/core_spec.md) | `core/v1.1.0` |
 
 ## All Versions
 
-| Version | Released   | PDF                              | Markdown                       |
-|---------|------------|----------------------------------|--------------------------------|
-| 1.0.1   | 2025-12-12 | [core_spec.pdf](1.0.1/core_spec.pdf) | [core_spec.md](1.0.1/core_spec.md) |
+| Version | Released   | PDF                              | Markdown                       | Release ref   |
+|---------|------------|----------------------------------|--------------------------------|---------------|
+| 1.1.0   | 2026-08-13 | [core_spec.pdf](1.1.0/core_spec.pdf) | [core_spec.md](1.1.0/core_spec.md) | `core/v1.1.0` |
+| 1.0.1   | 2025-12-12 | [core_spec.pdf](1.0.1/core_spec.pdf) | [core_spec.md](1.0.1/core_spec.md) | `core/v1.0.1` |
 
 ## Supplemental Materials
 

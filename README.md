@@ -14,9 +14,10 @@ relevant subdirectory for available versions.
 
 ## Available Specifications
 
-| Specification | Version | Released   | PDF                                           | Markdown                                    |
-|---------------|---------|------------|-----------------------------------------------|---------------------------------------------|
-| Core          | 1.0.1   | 2025-12-12 | [core_spec.pdf](core/1.0.1/core_spec.pdf)     | [core_spec.md](core/1.0.1/core_spec.md)     |
+| Specification | Version | Released   | PDF                                           | Markdown                                    | Release ref     |
+|---------------|---------|------------|-----------------------------------------------|---------------------------------------------|-----------------|
+| Core          | 1.1.0   | 2026-08-13 | [core_spec.pdf](core/1.1.0/core_spec.pdf)     | [core_spec.md](core/1.1.0/core_spec.md)     | `core/v1.1.0`   |
+| Core          | 1.0.1   | 2025-12-12 | [core_spec.pdf](core/1.0.1/core_spec.pdf)     | [core_spec.md](core/1.0.1/core_spec.md)     | `core/v1.0.1`   |
 
 ## About AOUSD
 
@@ -27,10 +28,14 @@ working groups, see [https://aousd.org](https://aousd.org).
 ## Citing a Release
 
 Each release is identified by a specification name, a version number
-(for example, `Core v1.0.1`), and a source commit hash that appears in
+(for example, `Core v1.1.0`), and a source commit hash that appears in
 the document's subtitle. When citing a specific release, include both
 the specification name and the version. The stable URL of either
 artifact on this branch is the recommended citation link.
+
+The **Release ref** column gives the tag on this repository that marks
+the commit publishing that version, for consumers and tooling that
+need a machine-pinnable reference.
 
 ## License
 

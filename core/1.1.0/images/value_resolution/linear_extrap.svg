@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 360.6 216.5">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-width: 3px;
+      }
+
+      .st0, .st1 {
+        stroke: blue;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        fill: #fff;
+      }
+
+      .st0, .st1, .st2, .st5, .st4 {
+        stroke-miterlimit: 10;
+      }
+
+      .st6 {
+        font-family: ArialMT, Arial;
+        font-size: 12px;
+      }
+
+      .st1 {
+        stroke-width: 2px;
+      }
+
+      .st2, .st5, .st4 {
+        stroke: #000;
+      }
+
+      .st5 {
+        fill: none;
+      }
+
+      .st4 {
+        stroke-dasharray: 4 3;
+      }
+    </style>
+  </defs>
+  <rect class="st2" x=".5" y=".5" width="359.6" height="215.5"/>
+  <g>
+    <polyline class="st3" points="34.3 24 34.3 178.4 320.3 178.4"/>
+    <g>
+      <polyline class="st5" points="34.3 27 34.3 178.4 317.2 178.4"/>
+      <path d="M34.3,24c-.5,1.4-1.4,3.2-2.4,4.3l2.4-.9,2.4.9c-1-1.1-1.9-2.9-2.4-4.3Z"/>
+      <path d="M320.3,178.4c-1.4.5-3.2,1.4-4.3,2.4l.9-2.4-.9-2.4c1.1,1,2.9,1.9,4.3,2.4Z"/>
+    </g>
+  </g>
+  <text class="st6" transform="translate(286.7 197.6)"><tspan x="0" y="0">Time</tspan></text>
+  <path class="st0" d="M172.4,44.7"/>
+  <path class="st0" d="M120,114.5"/>
+  <line class="st4" x1="275.5" y1="103.3" x2="243.4" y2="142"/>
+  <path class="st1" d="M73.8,135.2c32.5,38.7,19.4-70.6,39.4-71s15.5,81,39.6,85.3c25.7,4.7,21.5-85.3,44-86.9s25.4,103.3,46.7,79.2"/>
+  <line class="st4" x1="73.8" y1="135.2" x2="50.9" y2="108.3"/>
+</svg>

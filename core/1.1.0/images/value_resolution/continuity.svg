@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360.6 216.54">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: ArialMT, Arial;
+        font-size: 12px;
+      }
+
+      .cls-2 {
+        stroke: blue;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-6, .cls-7, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-6, .cls-7, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-8 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 4 3;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x=".5" y=".5" width="359.6" height="215.54"/>
+  <g>
+    <polyline class="cls-4" points="34.33 23.96 34.33 178.39 320.26 178.39"/>
+    <g>
+      <polyline class="cls-6" points="34.33 26.98 34.33 178.39 317.25 178.39"/>
+      <path d="M34.33,23.96c-.53,1.42-1.43,3.18-2.38,4.27l2.38-.86,2.38.86c-.95-1.09-1.85-2.85-2.38-4.27Z"/>
+      <path d="M320.26,178.39c-1.42.53-3.18,1.43-4.27,2.38l.86-2.38-.86-2.38c1.09.95,2.85,1.85,4.27,2.38Z"/>
+    </g>
+  </g>
+  <text class="cls-1" transform="translate(286.72 197.65)"><tspan class="cls-8" x="0" y="0">T</tspan><tspan x="6.88" y="0">ime</tspan></text>
+  <path class="cls-2" d="M77.42,119s10.68,45.15,28.94,46.05c16.97.84,58.55-56.78,58.55-56.78"/>
+  <path class="cls-2" d="M164.91,67.03s26.14-37.97,38.81-34.86c32.23,7.89,63.15,104.49,63.15,104.49"/>
+  <line class="cls-5" x1="164.91" y1="67.1" x2="164.91" y2="108.07"/>
+  <circle class="cls-3" cx="164.91" cy="108.07" r="3.55"/>
+  <circle class="cls-7" cx="164.91" cy="67.1" r="3.55"/>
+</svg>

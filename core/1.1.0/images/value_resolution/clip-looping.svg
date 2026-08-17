@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 786.26 233.63">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        opacity: .37;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: ArialMT, Arial;
+        font-size: 12px;
+      }
+
+      .cls-7 {
+        opacity: .43;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-7, .cls-9, .cls-10, .cls-2, .cls-11 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 14px;
+      }
+
+      .cls-4, .cls-11 {
+        fill: #22b573;
+      }
+
+      .cls-9 {
+        fill: #2e3192;
+        stroke-width: .75px;
+      }
+
+      .cls-10, .cls-5 {
+        fill: #29abe2;
+      }
+
+      .cls-10, .cls-11 {
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="background">
+    <rect id="color" class="cls-7" x=".5" y=".5" width="785.26" height="232.63"/>
+    <rect class="cls-8" x=".5" y=".5" width="785.26" height="232.63"/>
+  </g>
+  <g id="active">
+    <text/>
+    <path class="cls-5" d="M659.85,72.44H74.51V15.75h585.34v56.7Z"/>
+    <rect class="cls-4" x="154.93" y="104.57" width="204.14" height="53.76"/>
+    <rect class="cls-4" x="450.62" y="159.72" width="209.23" height="54.74"/>
+    <text class="cls-3" transform="translate(84.35 53.41)"><tspan x="0" y="0" xml:space="preserve"> active [0,0]</tspan></text>
+    <line class="cls-1" x1="119.23" y1="128.2" x2="118.18" y2="176.23"/>
+    <line class="cls-1" x1="109.23" y1="116.62" x2="108.18" y2="164.65"/>
+    <text class="cls-3" transform="translate(163.06 123.68)"><tspan x="0" y="0">clip_1.usd</tspan></text>
+    <text class="cls-3" transform="translate(454.51 174.61)"><tspan x="0" y="0">clip_2.usd</tspan></text>
+    <text class="cls-3" transform="translate(360.44 46.1)"><tspan x="0" y="0" xml:space="preserve"> active [10,1]</tspan></text>
+    <text class="cls-3" transform="translate(162.55 152.38)"><tspan x="0" y="0">assetIndex = 0</tspan></text>
+    <text class="cls-3" transform="translate(454.44 190.54)"><tspan x="0" y="0">assetIndex = 1</tspan></text>
+  </g>
+  <g id="loop">
+    <text class="cls-6" transform="translate(85.08 31.21)"><tspan x="0" y="0" xml:space="preserve"> time = 0</tspan></text>
+    <text class="cls-6" transform="translate(361.08 29.5)"><tspan x="0" y="0" xml:space="preserve"> time = 10</tspan></text>
+    <g>
+      <path class="cls-2" d="M89.24,72.35c-2.46,64.99,34.29,61.2,54.44,60.56"/>
+      <path d="M149.71,132.91c-2.84,1.06-6.35,2.87-8.53,4.79l1.7-4.76-1.74-4.75c2.19,1.9,5.72,3.68,8.56,4.72Z"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M383.4,72.35c-2.53,126.6,35.34,118.9,55.97,117.68"/>
+      <path d="M445.4,190.04c-2.83,1.07-6.35,2.89-8.52,4.8l1.69-4.77-1.75-4.75c2.19,1.89,5.73,3.67,8.57,4.71Z"/>
+    </g>
+    <path class="cls-9" d="M513.78,16.24l.38,56.47"/>
+    <path class="cls-9" d="M359.03,16.8l.75,54.6"/>
+    <text class="cls-6" transform="translate(479.08 27.66)"><tspan x="0" y="0" xml:space="preserve"> t=29</tspan></text>
+    <text class="cls-6" transform="translate(515.93 27.36)"><tspan x="0" y="0" xml:space="preserve"> t=30</tspan></text>
+    <text class="cls-6" transform="translate(630.14 27.36)"><tspan x="0" y="0" xml:space="preserve"> t=50</tspan></text>
+    <rect class="cls-10" x="443.52" y="16.24" width="18.35" height="56.2"/>
+    <rect class="cls-11" x="552.33" y="159.72" width="19.99" height="54.74"/>
+    <rect class="cls-10" x="587.64" y="15.75" width="16.24" height="56.7"/>
+    <g>
+      <path class="cls-2" d="M456.44,41.87c79.08,64.84,89.7,87.71,102.87,110.99"/>
+      <path d="M562.32,158.09c-2.32-1.95-5.63-4.12-8.36-5.07l4.98-.86,3.28-3.85c-.57,2.84-.39,6.79.1,9.78Z"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M594.79,44.48c14.52,55.38-1.98,91.4-25.39,110.04"/>
+      <path d="M564.54,158.09c1.65-2.54,3.4-6.09,4.02-8.92l1.46,4.84,4.22,2.79c-2.89-.22-6.79.44-9.7,1.29Z"/>
+    </g>
+    <text class="cls-6" transform="translate(575.92 210.31)"><tspan x="0" y="0" xml:space="preserve"> cliptime = 10</tspan></text>
+    <text class="cls-6" transform="translate(364.8 67.58)"><tspan x="0" y="0">times [10,0]</tspan></text>
+    <text class="cls-6" transform="translate(519.12 67.58)"><tspan x="0" y="0">times [30,0]</tspan></text>
+    <text class="cls-6" transform="translate(446.27 27.36)"><tspan x="0" y="0">20</tspan></text>
+    <text class="cls-6" transform="translate(588.85 27.36)"><tspan x="0" y="0">40</tspan></text>
+    <text class="cls-12" transform="translate(558.77 174.61)"><tspan x="0" y="0">V</tspan></text>
+  </g>
+</svg>
